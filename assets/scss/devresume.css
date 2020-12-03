@@ -10910,7 +10910,8 @@ a.resume-link:hover {
 }
 
 .resume-profile-image {
-  max-width: 120px;
+  width: 120px;
+  border-radius: 60px;
 }
 
 .resume-intro {
